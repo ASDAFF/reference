@@ -11,6 +11,11 @@
 MySQL [Скачать](mysql_ru_chm/mysql_ru.chm)
 ***
 
+# Документация на PEAR
+
+PEAR [Скачать](pear_ru_chm/pear_manual_ru.chm)
+***
+
 # Документация на Apache 2
 
 Apache 2 [Скачать](apache2_ru_chm/apache2_manual_ru.chm)
